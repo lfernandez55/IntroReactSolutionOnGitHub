@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aqua;
+}
+
+.Car {
+  width: 70vw;
+  margin: 1px;
+  border: 1px solid black;
+}
+h4 {
+  margin: 0;
+}
+div {
+  text-align: left;
+}
+.yellow {
+  background-color: yellow;
+}
+.orange {
+  background-color: orange;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: lightgreen;
+}
